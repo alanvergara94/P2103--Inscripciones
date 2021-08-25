@@ -1,0 +1,11 @@
+ID 48- Validado por Luis- No Aplica
+ID 78- Validado por QA (Aron) esper de VoBo de Naomi
+ID 64- Enviar Reincidencia- Validada por Luis Abreu
+ID 84- Se envia evidencia a Nicolas - Cambiar a Nicolas
+ID 51- Validado por Alejandro Reyna, No aplica
+ID 58- Es lo mismo reportado en la 55
+ID 69 - Cerrado, contamos con VoBo de Ada
+ID 71 y 72 - Se asigna a Nicolas
+ID 77- lo valido Aron, se espera VoBo de Gera
+ID 75- lo valido Aron, se espera VoBo de Gera
+
